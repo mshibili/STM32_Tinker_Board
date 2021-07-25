@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM32F4_REV2-rescue)(type Legacy)(uri ${KIPRJMOD}/STM32F4_REV2-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name library)(type Legacy)(uri "/home/mshibili/Documents/Ki Cad/STM Tinker Board/lib_sch/library.lib")(options "")(descr ""))
+)
